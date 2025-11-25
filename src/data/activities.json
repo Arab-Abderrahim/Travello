@@ -1,0 +1,272 @@
+[
+    {
+        "id": "act-001",
+        "title": "Casbah Walking Tour",
+        "location": "Algiers",
+        "country": "Algeria",
+        "category": "Cultural",
+        "duration": "3 hours",
+        "price": 45,
+        "image": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?w=800",
+        "description": "Explore the UNESCO-listed Casbah with its narrow streets and Ottoman architecture.",
+        "rating": 4.7,
+        "reviews": 234,
+        "included": [
+            "Local Guide",
+            "Tea Break",
+            "Historical Insights"
+        ]
+    },
+    {
+        "id": "act-002",
+        "title": "Mediterranean Beach Day",
+        "location": "Oran",
+        "country": "Algeria",
+        "category": "Beach",
+        "duration": "Full day",
+        "price": 35,
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800",
+        "description": "Relax on pristine beaches with water sports and beachside dining.",
+        "rating": 4.5,
+        "reviews": 167,
+        "included": [
+            "Beach Access",
+            "Water Sports",
+            "Lunch"
+        ]
+    },
+    {
+        "id": "act-003",
+        "title": "Tlemcen Grand Mosque Visit",
+        "location": "Tlemcen",
+        "country": "Algeria",
+        "category": "Religious",
+        "duration": "2 hours",
+        "price": 25,
+        "image": "https://images.unsplash.com/photo-1564769610297-1a19d9c3a0dd?w=800",
+        "description": "Visit the magnificent 12th-century Grand Mosque and Islamic architecture.",
+        "rating": 4.8,
+        "reviews": 145,
+        "included": [
+            "Guide",
+            "Historical Context"
+        ]
+    },
+    {
+        "id": "act-004",
+        "title": "Djemila Roman Ruins Tour",
+        "location": "Setif",
+        "country": "Algeria",
+        "category": "Historical",
+        "duration": "4 hours",
+        "price": 55,
+        "image": "https://images.unsplash.com/photo-1590077428593-a55bb07c4665?w=800",
+        "description": "Explore one of the best-preserved Roman ruins in North Africa.",
+        "rating": 4.9,
+        "reviews": 198,
+        "included": [
+            "Archaeologist Guide",
+            "Entrance Fee",
+            "Transport"
+        ]
+    },
+    {
+        "id": "act-005",
+        "title": "M'Zab Valley Exploration",
+        "location": "Ghardaia",
+        "country": "Algeria",
+        "category": "Cultural",
+        "duration": "Half day",
+        "price": 65,
+        "image": "https://images.unsplash.com/photo-1512395349041-35a8ca4c1853?w=800",
+        "description": "Discover the unique architecture and culture of the Mozabite people.",
+        "rating": 4.8,
+        "reviews": 112,
+        "included": [
+            "Local Guide",
+            "Traditional Lunch",
+            "Shopping Time"
+        ]
+    },
+    {
+        "id": "act-006",
+        "title": "Constantine Bridges Tour",
+        "location": "Constantine",
+        "country": "Algeria",
+        "category": "Sightseeing",
+        "duration": "3 hours",
+        "price": 40,
+        "image": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800",
+        "description": "Marvel at the dramatic bridges spanning the Rhumel Gorges.",
+        "rating": 4.6,
+        "reviews": 189,
+        "included": [
+            "Walking Tour",
+            "Photography Stops",
+            "Coffee Break"
+        ]
+    },
+    {
+        "id": "act-007",
+        "title": "Bejaia Mountain Hiking",
+        "location": "Bejaia",
+        "country": "Algeria",
+        "category": "Outdoor",
+        "duration": "5 hours",
+        "price": 50,
+        "image": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=800",
+        "description": "Hike through the stunning Kabylie mountains with coastal views.",
+        "rating": 4.7,
+        "reviews": 134,
+        "included": [
+            "Guide",
+            "Picnic Lunch",
+            "Equipment"
+        ]
+    },
+    {
+        "id": "act-008",
+        "title": "Annaba Beach & Basilica",
+        "location": "Annaba",
+        "country": "Algeria",
+        "category": "Mixed",
+        "duration": "4 hours",
+        "price": 48,
+        "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=800",
+        "description": "Combine beach relaxation with a visit to St. Augustine's Basilica.",
+        "rating": 4.5,
+        "reviews": 156,
+        "included": [
+            "Transport",
+            "Entrance Fees",
+            "Guide"
+        ]
+    },
+    {
+        "id": "act-009",
+        "title": "Eiffel Tower & Seine Cruise",
+        "location": "Paris",
+        "country": "France",
+        "category": "Sightseeing",
+        "duration": "4 hours",
+        "price": 89,
+        "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=800",
+        "description": "Skip-the-line Eiffel Tower access followed by a romantic Seine cruise.",
+        "rating": 4.9,
+        "reviews": 1567,
+        "included": [
+            "Skip-the-Line",
+            "Cruise",
+            "Audio Guide"
+        ]
+    },
+    {
+        "id": "act-010",
+        "title": "Blue Mosque & Grand Bazaar",
+        "location": "Istanbul",
+        "country": "Turkey",
+        "category": "Cultural",
+        "duration": "5 hours",
+        "price": 75,
+        "image": "https://images.unsplash.com/photo-1527838832700-5059252407fa?w=800",
+        "description": "Visit iconic Blue Mosque and shop in the world-famous Grand Bazaar.",
+        "rating": 4.8,
+        "reviews": 987,
+        "included": [
+            "Expert Guide",
+            "Entrance Fees",
+            "Turkish Tea"
+        ]
+    },
+    {
+        "id": "act-011",
+        "title": "Desert Safari with BBQ",
+        "location": "Dubai",
+        "country": "UAE",
+        "category": "Adventure",
+        "duration": "6 hours",
+        "price": 95,
+        "image": "https://images.unsplash.com/photo-1451337516015-6b6e9a44a8a3?w=800",
+        "description": "Thrilling dune bashing, camel riding, and desert dinner under the stars.",
+        "rating": 4.9,
+        "reviews": 2145,
+        "included": [
+            "4x4 Safari",
+            "BBQ Dinner",
+            "Entertainment",
+            "Transport"
+        ]
+    },
+    {
+        "id": "act-012",
+        "title": "Pyramids & Sphinx Tour",
+        "location": "Cairo",
+        "country": "Egypt",
+        "category": "Historical",
+        "duration": "4 hours",
+        "price": 68,
+        "image": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?w=800",
+        "description": "Explore the Great Pyramids of Giza and the enigmatic Sphinx.",
+        "rating": 4.7,
+        "reviews": 1234,
+        "included": [
+            "Egyptologist Guide",
+            "Entrance Fees",
+            "Camel Ride"
+        ]
+    },
+    {
+        "id": "act-013",
+        "title": "Flamenco Show & Tapas",
+        "location": "Madrid",
+        "country": "Spain",
+        "category": "Entertainment",
+        "duration": "3 hours",
+        "price": 72,
+        "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800",
+        "description": "Authentic flamenco performance with traditional Spanish tapas.",
+        "rating": 4.8,
+        "reviews": 678,
+        "included": [
+            "Show Tickets",
+            "Tapas & Drink",
+            "Reserved Seating"
+        ]
+    },
+    {
+        "id": "act-014",
+        "title": "Colosseum & Roman Forum",
+        "location": "Rome",
+        "country": "Italy",
+        "category": "Historical",
+        "duration": "3 hours",
+        "price": 79,
+        "image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=800",
+        "description": "Skip-the-line access to ancient Rome's most iconic monuments.",
+        "rating": 4.9,
+        "reviews": 1876,
+        "included": [
+            "Skip-the-Line",
+            "Expert Guide",
+            "Headsets"
+        ]
+    },
+    {
+        "id": "act-015",
+        "title": "British Museum & Afternoon Tea",
+        "location": "London",
+        "country": "United Kingdom",
+        "category": "Cultural",
+        "duration": "4 hours",
+        "price": 65,
+        "image": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800",
+        "description": "Guided museum tour followed by traditional English afternoon tea.",
+        "rating": 4.7,
+        "reviews": 543,
+        "included": [
+            "Museum Guide",
+            "Afternoon Tea",
+            "Entry Tickets"
+        ]
+    }
+]

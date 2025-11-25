@@ -1,0 +1,409 @@
+[
+    {
+        "id": "hotel-alg-001",
+        "name": "Sofitel Algiers Hamma Garden",
+        "city": "Algiers",
+        "country": "Algeria",
+        "rating": 5,
+        "price": 150,
+        "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+        "amenities": [
+            "WiFi",
+            "Pool",
+            "Spa",
+            "Restaurant",
+            "Gym",
+            "Parking"
+        ],
+        "description": "Luxury 5-star hotel in the heart of Algiers with stunning views of the Mediterranean Sea.",
+        "reviews": 1250,
+        "reviewScore": 4.6
+    },
+    {
+        "id": "hotel-alg-002",
+        "name": "El Aurassi Hotel",
+        "city": "Algiers",
+        "country": "Algeria",
+        "rating": 4,
+        "price": 95,
+        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800",
+        "amenities": [
+            "WiFi",
+            "Pool",
+            "Restaurant",
+            "Business Center"
+        ],
+        "description": "Iconic hotel offering panoramic views of Algiers Bay and modern amenities.",
+        "reviews": 980,
+        "reviewScore": 4.3
+    },
+    {
+        "id": "hotel-orn-001",
+        "name": "Sheraton Oran Hotel",
+        "city": "Oran",
+        "country": "Algeria",
+        "rating": 5,
+        "price": 140,
+        "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800",
+        "amenities": [
+            "WiFi",
+            "Pool",
+            "Spa",
+            "Restaurant",
+            "Bar",
+            "Gym"
+        ],
+        "description": "Premium beachfront hotel in Oran with world-class facilities and service.",
+        "reviews": 755,
+        "reviewScore": 4.5
+    },
+    {
+        "id": "hotel-con-001",
+        "name": "Novotel Constantine",
+        "city": "Constantine",
+        "country": "Algeria",
+        "rating": 4,
+        "price": 85,
+        "image": "https://images.unsplash.com/photo-1596436889106-be35e843f974?w=800",
+        "amenities": [
+            "WiFi",
+            "Restaurant",
+            "Parking",
+            "Airport Shuttle"
+        ],
+        "description": "Modern hotel in the city of bridges, perfect for business and leisure travelers.",
+        "reviews": 620,
+        "reviewScore": 4.2
+    },
+    {
+        "id": "hotel-ann-001",
+        "name": "Sabri Hotel Annaba",
+        "city": "Annaba",
+        "country": "Algeria",
+        "rating": 3,
+        "price": 60,
+        "image": "https://images.unsplash.com/photo-1537726235470-8504e3beef77?w=800",
+        "amenities": [
+            "WiFi",
+            "Restaurant",
+            "Beach Access"
+        ],
+        "description": "Comfortable beachside hotel in beautiful Annaba with Mediterranean charm.",
+        "reviews": 420,
+        "reviewScore": 4.0
+    },
+    {
+        "id": "hotel-gha-001",
+        "name": "Les Jardins de Bab El Oued",
+        "city": "Ghardaia",
+        "country": "Algeria",
+        "rating": 4,
+        "price": 75,
+        "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800",
+        "amenities": [
+            "WiFi",
+            "Pool",
+            "Restaurant",
+            "Traditional Hammam"
+        ],
+        "description": "Authentic desert oasis hotel with traditional Mozabite architecture.",
+        "reviews": 340,
+        "reviewScore": 4.4
+    },
+    {
+        "id": "hotel-tle-001",
+        "name": "Renaissance Tlemcen Hotel",
+        "city": "Tlemcen",
+        "country": "Algeria",
+        "rating": 4,
+        "price": 80,
+        "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800",
+        "amenities": [
+            "WiFi",
+            "Pool",
+            "Restaurant",
+            "Spa"
+        ],
+        "description": "Elegant hotel blending Andalusian heritage with modern comfort.",
+        "reviews": 510,
+        "reviewScore": 4.3
+    },
+    {
+        "id": "hotel-bej-001",
+        "name": "Hotel Hammadite Bejaia",
+        "city": "Bejaia",
+        "country": "Algeria",
+        "rating": 3,
+        "price": 65,
+        "image": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=800",
+        "amenities": [
+            "WiFi",
+            "Restaurant",
+            "Sea View"
+        ],
+        "description": "Charming coastal hotel with stunning views of Bejaia Bay.",
+        "reviews": 385,
+        "reviewScore": 4.1
+    },
+    {
+        "id": "hotel-set-001",
+        "name": "Ibis Setif",
+        "city": "Setif",
+        "country": "Algeria",
+        "rating": 3,
+        "price": 55,
+        "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=800",
+        "amenities": [
+            "WiFi",
+            "Restaurant",
+            "Parking"
+        ],
+        "description": "Comfortable budget-friendly hotel in the heart of Setif.",
+        "reviews": 290,
+        "reviewScore": 3.9
+    },
+    {
+        "id": "hotel-mec-001",
+        "name": "Swissotel Makkah",
+        "city": "Mecca",
+        "country": "Saudi Arabia",
+        "rating": 5,
+        "price": 350,
+        "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800",
+        "amenities": [
+            "WiFi",
+            "24/7 Room Service",
+            "Haram View",
+            "Restaurant",
+            "Prayer Facilities"
+        ],
+        "description": "Luxury hotel with direct views of the Holy Mosque, steps away from Haram.",
+        "reviews": 2340,
+        "reviewScore": 4.8
+    },
+    {
+        "id": "hotel-mec-002",
+        "name": "Hilton Makkah Convention Hotel",
+        "city": "Mecca",
+        "country": "Saudi Arabia",
+        "rating": 4,
+        "price": 180,
+        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800",
+        "amenities": [
+            "WiFi",
+            "Restaurant",
+            "Close to Haram",
+            "Family Rooms",
+            "Prayer Rooms"
+        ],
+        "description": "Comfortable 4-star hotel close to the Holy Mosque with family-friendly facilities.",
+        "reviews": 1680,
+        "reviewScore": 4.5
+    },
+    {
+        "id": "hotel-mec-003",
+        "name": "Al Safwah Hotel Makkah",
+        "city": "Mecca",
+        "country": "Saudi Arabia",
+        "rating": 3,
+        "price": 95,
+        "image": "https://images.unsplash.com/photo-1596436889106-be35e843f974?w=800",
+        "amenities": [
+            "WiFi",
+            "Restaurant",
+            "Near Haram",
+            "Prayer Facilities"
+        ],
+        "description": "Budget-friendly hotel near Holy Mosque, perfect for pilgrims seeking affordable accommodation.",
+        "reviews": 980,
+        "reviewScore": 4.2
+    },
+    {
+        "id": "hotel-med-001",
+        "name": "Oberoi Madina",
+        "city": "Medina",
+        "country": "Saudi Arabia",
+        "rating": 5,
+        "price": 320,
+        "image": "https://images.unsplash.com/photo-1549294413-26f195200c16?w=800",
+        "amenities": [
+            "WiFi",
+            "Spa",
+            "Prophet's Mosque View",
+            "Fine Dining",
+            "VIP Services"
+        ],
+        "description": "Premier luxury hotel with stunning views of the Prophet's Mosque (Masjid Nabawi).",
+        "reviews": 1850,
+        "reviewScore": 4.9
+    },
+    {
+        "id": "hotel-med-002",
+        "name": "Crowne Plaza Madinah",
+        "city": "Medina",
+        "country": "Saudi Arabia",
+        "rating": 4,
+        "price": 165,
+        "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800",
+        "amenities": [
+            "WiFi",
+            "Restaurant",
+            "Close to Haram",
+            "Business Center",
+            "Prayer Facilities"
+        ],
+        "description": "Modern hotel within walking distance of the Prophet's Mosque with excellent amenities.",
+        "reviews": 1420,
+        "reviewScore": 4.6
+    },
+    {
+        "id": "hotel-med-003",
+        "name": "Dar Al Eiman Al Madinah Hotel",
+        "city": "Medina",
+        "country": "Saudi Arabia",
+        "rating": 3,
+        "price": 85,
+        "image": "https://images.unsplash.com/photo-1537726235470-8504e3beef77?w=800",
+        "amenities": [
+            "WiFi",
+            "Restaurant",
+            "Near Masjid Nabawi",
+            "Family Rooms"
+        ],
+        "description": "Affordable and comfortable accommodation near the Prophet's Mosque for pilgrims.",
+        "reviews": 890,
+        "reviewScore": 4.3
+    },
+    {
+        "id": "hotel-par-001",
+        "name": "Le Grand Hotel Paris",
+        "city": "Paris",
+        "country": "France",
+        "rating": 5,
+        "price": 350,
+        "image": "https://images.unsplash.com/photo-1549294413-26f195200c16?w=800",
+        "amenities": [
+            "WiFi",
+            "Spa",
+            "Restaurant",
+            "Bar",
+            "Concierge"
+        ],
+        "description": "Luxurious Parisian hotel near the Champs-Élysées with classic elegance.",
+        "reviews": 2150,
+        "reviewScore": 4.7
+    },
+    {
+        "id": "hotel-ist-001",
+        "name": "Four Seasons Istanbul",
+        "city": "Istanbul",
+        "country": "Turkey",
+        "rating": 5,
+        "price": 280,
+        "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=800",
+        "amenities": [
+            "WiFi",
+            "Pool",
+            "Spa",
+            "Restaurant",
+            "Rooftop Bar"
+        ],
+        "description": "Magnificent hotel overlooking the Bosphorus with Ottoman-inspired luxury.",
+        "reviews": 1890,
+        "reviewScore": 4.8
+    },
+    {
+        "id": "hotel-dxb-001",
+        "name": "Burj Al Arab Jumeirah",
+        "city": "Dubai",
+        "country": "UAE",
+        "rating": 5,
+        "price": 1200,
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800",
+        "amenities": [
+            "WiFi",
+            "Private Beach",
+            "Spa",
+            "Multiple Restaurants",
+            "Butler Service"
+        ],
+        "description": "World's most luxurious hotel with unparalleled service and opulence.",
+        "reviews": 3200,
+        "reviewScore": 4.9
+    },
+    {
+        "id": "hotel-lon-001",
+        "name": "The Savoy London",
+        "city": "London",
+        "country": "United Kingdom",
+        "rating": 5,
+        "price": 450,
+        "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800",
+        "amenities": [
+            "WiFi",
+            "Pool",
+            "Spa",
+            "Restaurant",
+            "Thames View"
+        ],
+        "description": "Iconic luxury hotel on the Strand with timeless British elegance.",
+        "reviews": 2680,
+        "reviewScore": 4.7
+    },
+    {
+        "id": "hotel-mad-001",
+        "name": "Hotel Ritz Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "rating": 5,
+        "price": 380,
+        "image": "https://images.unsplash.com/photo-1540541338287-41700207dee6?w=800",
+        "amenities": [
+            "WiFi",
+            "Spa",
+            "Restaurant",
+            "Garden",
+            "Art Gallery"
+        ],
+        "description": "Belle Époque masterpiece in the heart of Madrid's Golden Triangle.",
+        "reviews": 1540,
+        "reviewScore": 4.6
+    },
+    {
+        "id": "hotel-rom-001",
+        "name": "Hotel Hassler Roma",
+        "city": "Rome",
+        "country": "Italy",
+        "rating": 5,
+        "price": 420,
+        "image": "https://images.unsplash.com/photo-1570213489059-0aac6626cade?w=800",
+        "amenities": [
+            "WiFi",
+            "Spa",
+            "Michelin Restaurant",
+            "Rooftop Terrace"
+        ],
+        "description": "Legendary hotel atop the Spanish Steps with breathtaking city views.",
+        "reviews": 1920,
+        "reviewScore": 4.8
+    },
+    {
+        "id": "hotel-cai-001",
+        "name": "Four Seasons Cairo at Nile Plaza",
+        "city": "Cairo",
+        "country": "Egypt",
+        "rating": 5,
+        "price": 220,
+        "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800",
+        "amenities": [
+            "WiFi",
+            "Pool",
+            "Spa",
+            "Restaurant",
+            "Nile View"
+        ],
+        "description": "Elegant riverfront hotel with spectacular views of the Nile and Pyramids.",
+        "reviews": 1340,
+        "reviewScore": 4.5
+    }
+]

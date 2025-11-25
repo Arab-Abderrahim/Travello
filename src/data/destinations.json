@@ -1,0 +1,227 @@
+[
+    {
+        "id": "dest-alg",
+        "name": "Algiers",
+        "country": "Algeria",
+        "type": "city",
+        "image": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?w=800",
+        "description": "Algeria's vibrant capital blending French colonial architecture with ancient Casbah charm overlooking the Mediterranean Sea.",
+        "highlights": [
+            "Casbah UNESCO Site",
+            "Notre Dame d'Afrique",
+            "Martyrs' Memorial",
+            "Mediterranean Beaches"
+        ],
+        "bestTimeToVisit": "March to May, September to November"
+    },
+    {
+        "id": "dest-orn",
+        "name": "Oran",
+        "country": "Algeria",
+        "type": "city",
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+        "description": "Algeria's second city known for its Spanish-influenced architecture, beautiful coastline, and vibrant music scene.",
+        "highlights": [
+            "Santa Cruz Fort",
+            "Le Theatre",
+            "Mers el-Kebir",
+            "Beaches"
+        ],
+        "bestTimeToVisit": "April to June, September to October"
+    },
+    {
+        "id": "dest-con",
+        "name": "Constantine",
+        "country": "Algeria",
+        "type": "city",
+        "image": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800",
+        "description": "The city of bridges dramatically perched on a plateau with stunning gorges and ancient history.",
+        "highlights": [
+            "Sidi M'Cid Bridge",
+            "Cirta Museum",
+            "Emir Abdelkader Mosque",
+            "Rhumel Gorges"
+        ],
+        "bestTimeToVisit": "March to May, October to November"
+    },
+    {
+        "id": "dest-ann",
+        "name": "Annaba",
+        "country": "Algeria",
+        "type": "city",
+        "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=800",
+        "description": "Coastal city with beautiful beaches, Roman ruins, and the stunning Basilica of St. Augustine.",
+        "highlights": [
+            "St Augustine Basilica",
+            "Seraidi Beach",
+            "Hippo Regius Ruins",
+            "Edough Peninsula"
+        ],
+        "bestTimeToVisit": "May to September"
+    },
+    {
+        "id": "dest-gha",
+        "name": "Ghardaia",
+        "country": "Algeria",
+        "type": "city",
+        "image": "https://images.unsplash.com/photo-1512395349041-35a8ca4c1853?w=800",
+        "description": "Gateway to the Sahara with unique Mozabite architecture and UNESCO World Heritage M'Zab Valley.",
+        "highlights": [
+            "M'Zab Valley",
+            "Mozabite Architecture",
+            "Traditional Markets",
+            "Desert Access"
+        ],
+        "bestTimeToVisit": "October to April"
+    },
+    {
+        "id": "dest-tle",
+        "name": "Tlemcen",
+        "country": "Algeria",
+        "type": "city",
+        "image": "https://images.unsplash.com/photo-1564769610297-1a19d9c3a0dd?w=800",
+        "description": "Historic city with Andalusian heritage, magnificent mosques, and beautiful mountain scenery.",
+        "highlights": [
+            "Grand Mosque",
+            "Mansourah Ruins",
+            "El Mechouar Palace",
+            "Lalla Setti Plateau"
+        ],
+        "bestTimeToVisit": "March to June, September to November"
+    },
+    {
+        "id": "dest-bej",
+        "name": "Bejaia",
+        "country": "Algeria",
+        "type": "city",
+        "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=800",
+        "description": "Stunning coastal city nestled between mountains and sea in the heart of Kabylie region.",
+        "highlights": [
+            "Gouraya National Park",
+            "Cap Carbon",
+            "Kabylie Mountains",
+            "Beaches"
+        ],
+        "bestTimeToVisit": "May to October"
+    },
+    {
+        "id": "dest-set",
+        "name": "Setif",
+        "country": "Algeria",
+        "type": "city",
+        "image": "https://images.unsplash.com/photo-1590077428593-a55bb07c4665?w=800",
+        "description": "High-plateau city known for its Roman ruins, especially the spectacular Djemila UNESCO site nearby.",
+        "highlights": [
+            "Djemila Roman Ruins",
+            "Ain El Fouara Fountain",
+            "Archaeological Museum",
+            "Parks"
+        ],
+        "bestTimeToVisit": "April to June, September to October"
+    },
+    {
+        "id": "dest-par",
+        "name": "Paris",
+        "country": "France",
+        "type": "city",
+        "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=800",
+        "description": "The City of Light, world capital of art, fashion, gastronomy and culture with iconic monuments.",
+        "highlights": [
+            "Eiffel Tower",
+            "Louvre Museum",
+            "Notre-Dame",
+            "Champs-Élysées"
+        ],
+        "bestTimeToVisit": "April to June, September to October"
+    },
+    {
+        "id": "dest-ist",
+        "name": "Istanbul",
+        "country": "Turkey",
+        "type": "city",
+        "image": "https://images.unsplash.com/photo-1527838832700-5059252407fa?w=800",
+        "description": "Transcontinental city where East meets West, rich with Byzantine and Ottoman heritage.",
+        "highlights": [
+            "Hagia Sophia",
+            "Blue Mosque",
+            "Grand Bazaar",
+            "Bosphorus"
+        ],
+        "bestTimeToVisit": "March to May, September to November"
+    },
+    {
+        "id": "dest-dxb",
+        "name": "Dubai",
+        "country": "UAE",
+        "type": "city",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800",
+        "description": "Futuristic metropolis of superlatives with towering skyscrapers, luxury shopping, and desert adventures.",
+        "highlights": [
+            "Burj Khalifa",
+            "Dubai Mall",
+            "Palm Jumeirah",
+            "Desert Safari"
+        ],
+        "bestTimeToVisit": "November to March"
+    },
+    {
+        "id": "dest-lon",
+        "name": "London",
+        "country": "United Kingdom",
+        "type": "city",
+        "image": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800",
+        "description": "Historic capital blending royal heritage with modern culture, museums, and diverse neighborhoods.",
+        "highlights": [
+            "Big Ben",
+            "British Museum",
+            "Tower of London",
+            "Buckingham Palace"
+        ],
+        "bestTimeToVisit": "May to September"
+    },
+    {
+        "id": "dest-mad",
+        "name": "Madrid",
+        "country": "Spain",
+        "type": "city",
+        "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800",
+        "description": "Spain's vibrant capital known for world-class art museums, royal palaces, and lively nightlife.",
+        "highlights": [
+            "Prado Museum",
+            "Royal Palace",
+            "Retiro Park",
+            "Plaza Mayor"
+        ],
+        "bestTimeToVisit": "March to May, September to November"
+    },
+    {
+        "id": "dest-rom",
+        "name": "Rome",
+        "country": "Italy",
+        "type": "city",
+        "image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=800",
+        "description": "The Eternal City, an open-air museum showcasing 3000 years of history and culture.",
+        "highlights": [
+            "Colosseum",
+            "Vatican City",
+            "Trevi Fountain",
+            "Roman Forum"
+        ],
+        "bestTimeToVisit": "April to June, September to October"
+    },
+    {
+        "id": "dest-cai",
+        "name": "Cairo",
+        "country": "Egypt",
+        "type": "city",
+        "image": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?w=800",
+        "description": "Ancient capital home to the Pyramids of Giza, Sphinx, and treasures of pharaonic civilization.",
+        "highlights": [
+            "Pyramids of Giza",
+            "Egyptian Museum",
+            "Khan el-Khalili",
+            "Nile River"
+        ],
+        "bestTimeToVisit": "October to April"
+    }
+]
